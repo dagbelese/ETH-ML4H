@@ -1,0 +1,13 @@
+name: image-1
+dependencies:
+  - python=3.10
+  - jupyter
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - tensorflow
+  - scikit-learn
+  - opencv
+  - keras
