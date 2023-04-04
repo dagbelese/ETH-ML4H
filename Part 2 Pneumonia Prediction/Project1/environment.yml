@@ -1,4 +1,4 @@
-name: image-1
+name: image-3
 dependencies:
   - python=3.10
   - jupyter
