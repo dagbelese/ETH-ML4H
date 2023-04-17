@@ -6,7 +6,7 @@ dependencies:
     - vis
     - tf_explain
     - keras-vis
-    -shap
+    - shap
   - numpy
   - pandas
   - matplotlib
